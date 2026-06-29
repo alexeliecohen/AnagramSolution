@@ -6,9 +6,8 @@ Essentially an anagram is a combination of all characters in the string, excludi
 
 Mathematically the number of possible Anagrams (A), can be represented as:
 
-$$
-A = \frac{n!}{n_1!*n_2!*n_3!*...*n_k!}
-$$
+
+![img_1.png](Anagram.png)
 
 Where,\
 \
